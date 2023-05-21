@@ -12,9 +12,9 @@ jobs:
     runs-on: ubuntu-latest
     name: publish_if_newer_version
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v2
       - name: Setup node
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v1
         with:
           node-version: 12
       - name: NPM install
