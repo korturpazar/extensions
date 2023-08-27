@@ -28,7 +28,7 @@
   "dependencies": {
     "@firebaseextensions/firestore-bigquery-change-tracker": "^1.1.17",
     "@google-cloud/bigquery": "^5.6.0",
-    "commander": "5.0.0",
+    "commander": "5.1.0",
     "filenamify": "^4.2.0",
     "firebase-admin": "^11.4.1",
     "firebase-functions": "^3.13.2",
