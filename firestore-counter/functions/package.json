@@ -13,7 +13,7 @@
     "typescript": "^4.9.4",
     "@types/chai": "^4.1.6",
     "@types/mocha": "^5.2.5",
-    "@types/express-serve-static-core": "4.17.30"
+    "@types/express-serve-static-core": "4.17.35"
   },
   "devDependencies": {
     "chai": "^4.2.0",
