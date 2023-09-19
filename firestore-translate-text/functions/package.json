@@ -18,7 +18,7 @@
     "firebase-functions": "^3.24.0",
     "typescript": "^4.4.4",
     "rimraf": "^2.6.3",
-    "@types/express-serve-static-core": "4.17.30"
+    "@types/express-serve-static-core": "4.17.36"
   },
   "devDependencies": {
     "firebase-functions-test": "^0.1.7",
