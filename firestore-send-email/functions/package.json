@@ -27,7 +27,7 @@
     "handlebars": "^4.5.3",
     "nodemailer": "^6.9.7",
     "rimraf": "^2.6.3",
-    "smtp-server": "^3.10.0",
+    "smtp-server": "^3.13.2",
     "typescript": "^4.7.4",
     "wait-for-expect": "^3.0.2",
     "wait-on": "^7.2.0"
