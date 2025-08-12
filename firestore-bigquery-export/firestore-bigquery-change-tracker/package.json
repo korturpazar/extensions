@@ -28,7 +28,7 @@
     "firebase-admin": "^11.11.1",
     "firebase-functions": "^4.6.0",
     "generate-schema": "^2.6.0",
-    "inquirer": "^6.4.0",
+    "inquirer": "^8.2.7",
     "lodash": "^4.17.14",
     "node-fetch": "^2.6.1",
     "sql-formatter": "^2.3.3",
