@@ -33,7 +33,7 @@
     "firebase-admin": "^11.4.1",
     "firebase-functions": "^3.13.2",
     "generate-schema": "^2.6.0",
-    "inquirer": "^6.4.0",
+    "inquirer": "^8.2.7",
     "sql-formatter": "^2.3.3",
     "workerpool": "^6.1.4"
   },
