@@ -26,7 +26,7 @@
     "generate-schema": "^2.6.0",
     "inquirer": "^6.4.0",
     "lodash": "^4.17.14",
-    "nyc": "^14.0.0",
+    "nyc": "^15.0.1",
     "rimraf": "^2.6.3",
     "sql-formatter": "^2.3.3",
     "ts-node": "^7.0.1",
