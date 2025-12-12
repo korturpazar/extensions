@@ -28,7 +28,7 @@
     "nodemailer": "^6.9.7",
     "nodemailer-sendgrid": "^1.0.3",
     "rimraf": "^2.6.3",
-    "smtp-server": "^3.10.0",
+    "smtp-server": "^3.17.0",
     "typescript": "^4.7.4",
     "wait-on": "^7.2.0"
   },
